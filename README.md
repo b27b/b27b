@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Kathy+Zhang!;" />
+</h1>
 
-<!--
-**b27b/b27b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A designer and developer from Canada 🇨🇦</h3>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+ 
+ 🔭 I’m currently working on a personal website
+ 
+ 🌱 I’m currently learning Azure
+
+💬 Ask me about UX Design, Web Development... or anything here
+
+⚡ Fun fact Otters hold hands while sleeping to avoid drifting apart :)
+
+ </div>
+ 
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/kathy-zhang-852933280/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,figma,vscode,github,bootstrap,react" />
+    <img src="https://skillicons.dev/icons?i=javascript,python,cpp" /><br>
+</div>
+
+<hr/>
